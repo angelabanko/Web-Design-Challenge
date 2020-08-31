@@ -2,22 +2,22 @@
 Before You Begin
 
 
-Create a new repository for this project called Web-Design-Challenge. Do not add this homework to an existing repository.
+- Create a new repository for this project called Web-Design-Challenge. Do not add this homework to an existing repository.
 
 
-Clone the new repository to your computer.
+- Clone the new repository to your computer.
 
 
-Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: WebVisualizations.
+- Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: WebVisualizations.
 
 
-Add your html files to this folder as well as your assets, Resources and visualizations folders.
+- Add your html files to this folder as well as your assets, Resources and visualizations folders.
 
 
-Push the above changes to GitHub or GitLab.
+- Push the above changes to GitHub or GitLab.
 
 
-Deploy to GitHub pages.
+- Deploy to GitHub pages.
 
 
 
